@@ -1,0 +1,30 @@
+label {
+    display: inline-block;
+    width: 80px;
+    padding: 5px;
+    margin: 5px 0 5px 0;
+    text-align: left;
+}
+
+input {
+    margin: 5px 0 5px 0;
+    padding: 5px 0 5px 0;
+    width: calc(100% - 90px - 8px);
+}
+
+input:focus {
+    outline-color: rgba(189, 195, 199,1.0);
+    border: none;
+}
+
+button {
+    float: right;
+    margin: 10px 0 10px 10px;
+    padding: 5px;
+    text-align: center;
+    width: 100px;
+    background-color: rgba(52, 73, 94,1.0);
+    color: rgba(189, 195, 199,1.0);
+    border: none;
+    text-transform: uppercase;
+}

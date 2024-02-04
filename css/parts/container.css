@@ -1,0 +1,6 @@
+#container {
+    width: calc(100% - var(--espacamento-padrao) * 4);
+    border: var(--borda-padrao);
+    height: var(--altura-padrao);
+    float: left;
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&family=Protest+Revolution&family=Ubuntu+Condensed&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+@import url("./parts/container.css");
+@import url("./parts/topo.css");
+@import url("./parts/navegacao.css");
+@import url("./parts/banner.css");
+@import url("./parts/principal.css");
+@import url("./parts/rodape.css");
+
+body {
+    /* Variáveis */
+    /*--borda-padrao: 1px dashed #ddd;*/
+    --borda-padrao: none;
+    --espacamento-padrao: 20px;
+    --largura-padrao: 960px;
+    --altura-padrao: auto;
+
+    width: var(--largura-padrao);
+    margin: 0 auto;
+    background: url("../img/bg.png");
+    /*background-color: azure;*/
+}
+
+#container {
+    background-color: floralwhite;
+}
