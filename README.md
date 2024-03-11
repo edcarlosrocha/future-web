@@ -4,7 +4,10 @@ Bem-vindo ao repositório do projeto **Future Web**, uma agência web fictícia 
 
 ## Descrição do Projeto
 
-**Future Web** é uma agência web imaginária que oferece uma ampla variedade de serviços, desde design de interface de usuário até desenvolvimento de aplicativos web avançados. Este projeto foi concebido como um exemplo prático para permitir que estudantes e desenvolvedores pratiquem e aprimorem suas habilidades em um ambiente simulado de desenvolvimento web.
+**Future Web** é uma agência web imaginária que oferece uma ampla variedade de serviços, desde design de interface de usuário até desenvolvimento de aplicativos web avançados. Neste contexto, a agência possui atualmente um site desenvolvido na versão 01. No entanto, esta versão carece de adaptação responsiva, apresenta uma aparência ultrapassada e está pronta para ser modernizada. Sua tarefa, como aluno, é realizar a modificação e atualização necessárias no site, proporcionando uma experiência mais contemporânea e adaptável a diferentes dispositivos.
+
+Versão 01 do site: https://edcarlosrocha.github.io/future-web/
+Versão Mais Atual: https://uc15-future-web.netlify.app/
 
 ## Instruções para Contribuição
 
