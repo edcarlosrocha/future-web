@@ -14,7 +14,7 @@ Se você é um membro da equipe ou um colaborador, siga as diretrizes abaixo par
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone link-do-repositorio
+   git clone https://github.com/edcarlosrocha/future-web.git
    ```
 
 2. Configure suas informações de usuário localmente:
